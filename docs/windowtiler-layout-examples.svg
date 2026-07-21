@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="1200" viewBox="0 0 1800 1200">
+<rect width="100%" height="100%" fill="#f6f7fb"/>
+<text x="90" y="115" font-family="Arial, sans-serif" font-size="58" font-weight="700" fill="#171923">WindowTiler 排布示例</text>
+<text x="92" y="175" font-family="Arial, sans-serif" font-size="28" fill="#4a5568">一键整理 Mac 窗口 · 支持多列与宫格布局</text>
+<rect x="1375" y="73" width="330" height="74" rx="37" fill="#fff" stroke="#d9dee8" stroke-width="2"/>
+<text x="1410" y="120" font-family="Arial, sans-serif" font-size="32" font-weight="700" fill="#2d3748">⊞</text>
+<text x="1460" y="119" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#2d3748">菜单栏选择布局</text>
+<rect x="90" y="245" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="118" y="302" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">2 列</text>
+<text x="118" y="341" font-family="Arial, sans-serif" font-size="22" fill="#64748b">左右并排，适合双任务</text>
+<rect x="126" y="360" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="118" y="350" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M146,350 H554 Q582,350 582,378 V388 H118 V378 Q118,350 146,350" fill="#edf2f7"/>
+<circle cx="147" cy="370" r="7" fill="#ff5f57"/>
+<circle cx="175" cy="370" r="7" fill="#febc2e"/>
+<circle cx="203" cy="370" r="7" fill="#28c840"/>
+<rect x="136.0" y="406.0" width="208.0" height="176.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="148.0" y="418.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="240.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="356.0" y="406.0" width="208.0" height="176.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="368.0" y="418.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="460.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="655" y="245" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="683" y="302" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">3 列</text>
+<text x="683" y="341" font-family="Arial, sans-serif" font-size="22" fill="#64748b">资料 / 编辑 / 预览</text>
+<rect x="691" y="360" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="683" y="350" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M711,350 H1119 Q1147,350 1147,378 V388 H683 V378 Q683,350 711,350" fill="#edf2f7"/>
+<circle cx="712" cy="370" r="7" fill="#ff5f57"/>
+<circle cx="740" cy="370" r="7" fill="#febc2e"/>
+<circle cx="768" cy="370" r="7" fill="#28c840"/>
+<rect x="701.0" y="406.0" width="134.66666666666666" height="176.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="713.0" y="418.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="768.3333333333334" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="847.6666666666666" y="406.0" width="134.66666666666666" height="176.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="859.6666666666666" y="418.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="915.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="994.3333333333333" y="406.0" width="134.66666666666666" height="176.0" rx="16" fill="#dcfce7" stroke="#fff" stroke-width="3"/>
+<rect x="1006.3333333333333" y="418.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="1061.6666666666665" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">3</text>
+<rect x="1220" y="245" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="1248" y="302" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">4 列</text>
+<text x="1248" y="341" font-family="Arial, sans-serif" font-size="22" fill="#64748b">多窗口快速总览</text>
+<rect x="1256" y="360" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="1248" y="350" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M1276,350 H1684 Q1712,350 1712,378 V388 H1248 V378 Q1248,350 1276,350" fill="#edf2f7"/>
+<circle cx="1277" cy="370" r="7" fill="#ff5f57"/>
+<circle cx="1305" cy="370" r="7" fill="#febc2e"/>
+<circle cx="1333" cy="370" r="7" fill="#28c840"/>
+<rect x="1266.0" y="406.0" width="98.0" height="176.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="1278.0" y="418.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1315.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="1376.0" y="406.0" width="98.0" height="176.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="1388.0" y="418.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1425.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="1486.0" y="406.0" width="98.0" height="176.0" rx="16" fill="#dcfce7" stroke="#fff" stroke-width="3"/>
+<rect x="1498.0" y="418.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1535.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">3</text>
+<rect x="1596.0" y="406.0" width="98.0" height="176.0" rx="16" fill="#fef3c7" stroke="#fff" stroke-width="3"/>
+<rect x="1608.0" y="418.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1645.0" y="504.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">4</text>
+<rect x="90" y="685" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="118" y="742" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">2×2 宫格</text>
+<text x="118" y="781" font-family="Arial, sans-serif" font-size="22" fill="#64748b">四象限工作区</text>
+<rect x="126" y="800" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="118" y="790" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M146,790 H554 Q582,790 582,818 V828 H118 V818 Q118,790 146,790" fill="#edf2f7"/>
+<circle cx="147" cy="810" r="7" fill="#ff5f57"/>
+<circle cx="175" cy="810" r="7" fill="#febc2e"/>
+<circle cx="203" cy="810" r="7" fill="#28c840"/>
+<rect x="136.0" y="846.0" width="208.0" height="82.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="148.0" y="858.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="240.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="356.0" y="846.0" width="208.0" height="82.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="368.0" y="858.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="460.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="136.0" y="940.0" width="208.0" height="82.0" rx="16" fill="#dcfce7" stroke="#fff" stroke-width="3"/>
+<rect x="148.0" y="952.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="240.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">3</text>
+<rect x="356.0" y="940.0" width="208.0" height="82.0" rx="16" fill="#fef3c7" stroke="#fff" stroke-width="3"/>
+<rect x="368.0" y="952.0" width="184.0" height="17" rx="8" fill="#fff"/>
+<text x="460.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">4</text>
+<rect x="655" y="685" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="683" y="742" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">3×2 宫格</text>
+<text x="683" y="781" font-family="Arial, sans-serif" font-size="22" fill="#64748b">六窗口均匀排布</text>
+<rect x="691" y="800" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="683" y="790" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M711,790 H1119 Q1147,790 1147,818 V828 H683 V818 Q683,790 711,790" fill="#edf2f7"/>
+<circle cx="712" cy="810" r="7" fill="#ff5f57"/>
+<circle cx="740" cy="810" r="7" fill="#febc2e"/>
+<circle cx="768" cy="810" r="7" fill="#28c840"/>
+<rect x="701.0" y="846.0" width="134.66666666666666" height="82.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="713.0" y="858.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="768.3333333333334" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="847.6666666666666" y="846.0" width="134.66666666666666" height="82.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="859.6666666666666" y="858.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="915.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="994.3333333333333" y="846.0" width="134.66666666666666" height="82.0" rx="16" fill="#dcfce7" stroke="#fff" stroke-width="3"/>
+<rect x="1006.3333333333333" y="858.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="1061.6666666666665" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">3</text>
+<rect x="701.0" y="940.0" width="134.66666666666666" height="82.0" rx="16" fill="#fef3c7" stroke="#fff" stroke-width="3"/>
+<rect x="713.0" y="952.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="768.3333333333334" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">4</text>
+<rect x="847.6666666666666" y="940.0" width="134.66666666666666" height="82.0" rx="16" fill="#fae8ff" stroke="#fff" stroke-width="3"/>
+<rect x="859.6666666666666" y="952.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="915.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">5</text>
+<rect x="994.3333333333333" y="940.0" width="134.66666666666666" height="82.0" rx="16" fill="#fee2e2" stroke="#fff" stroke-width="3"/>
+<rect x="1006.3333333333333" y="952.0" width="110.66666666666666" height="17" rx="8" fill="#fff"/>
+<text x="1061.6666666666665" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">6</text>
+<rect x="1220" y="685" width="520" height="385" rx="34" fill="#fff" stroke="#e2e8f0" stroke-width="2"/>
+<text x="1248" y="742" font-family="Arial, sans-serif" font-size="31" font-weight="700" fill="#111827">4×2 宫格</text>
+<text x="1248" y="781" font-family="Arial, sans-serif" font-size="22" fill="#64748b">八窗口信息面板</text>
+<rect x="1256" y="800" width="464" height="250" rx="28" fill="#d7dce8"/>
+<rect x="1248" y="790" width="464" height="250" rx="28" fill="#fff" stroke="#cdd5e0" stroke-width="2"/>
+<path d="M1276,790 H1684 Q1712,790 1712,818 V828 H1248 V818 Q1248,790 1276,790" fill="#edf2f7"/>
+<circle cx="1277" cy="810" r="7" fill="#ff5f57"/>
+<circle cx="1305" cy="810" r="7" fill="#febc2e"/>
+<circle cx="1333" cy="810" r="7" fill="#28c840"/>
+<rect x="1266.0" y="846.0" width="98.0" height="82.0" rx="16" fill="#dbeafe" stroke="#fff" stroke-width="3"/>
+<rect x="1278.0" y="858.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1315.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">1</text>
+<rect x="1376.0" y="846.0" width="98.0" height="82.0" rx="16" fill="#e0e7ff" stroke="#fff" stroke-width="3"/>
+<rect x="1388.0" y="858.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1425.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">2</text>
+<rect x="1486.0" y="846.0" width="98.0" height="82.0" rx="16" fill="#dcfce7" stroke="#fff" stroke-width="3"/>
+<rect x="1498.0" y="858.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1535.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">3</text>
+<rect x="1596.0" y="846.0" width="98.0" height="82.0" rx="16" fill="#fef3c7" stroke="#fff" stroke-width="3"/>
+<rect x="1608.0" y="858.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1645.0" y="897.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">4</text>
+<rect x="1266.0" y="940.0" width="98.0" height="82.0" rx="16" fill="#fae8ff" stroke="#fff" stroke-width="3"/>
+<rect x="1278.0" y="952.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1315.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">5</text>
+<rect x="1376.0" y="940.0" width="98.0" height="82.0" rx="16" fill="#fee2e2" stroke="#fff" stroke-width="3"/>
+<rect x="1388.0" y="952.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1425.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">6</text>
+<rect x="1486.0" y="940.0" width="98.0" height="82.0" rx="16" fill="#ccfbf1" stroke="#fff" stroke-width="3"/>
+<rect x="1498.0" y="952.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1535.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">7</text>
+<rect x="1596.0" y="940.0" width="98.0" height="82.0" rx="16" fill="#ede9fe" stroke="#fff" stroke-width="3"/>
+<rect x="1608.0" y="952.0" width="74.0" height="17" rx="8" fill="#fff"/>
+<text x="1645.0" y="991.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#2d3748">8</text>
+<rect x="90" y="1080" width="1620" height="64" rx="22" fill="#111827"/>
+<text x="130" y="1120" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#fff">使用方式：点击菜单栏 ⊞ → 选择布局 → 当前屏幕可见窗口自动排列</text>
+<text x="1410" y="1120" font-family="Arial, sans-serif" font-size="24" fill="#cbd5e1">macOS 13+ · Swift</text>
+</svg>

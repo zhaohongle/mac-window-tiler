@@ -6,6 +6,8 @@
 ![Swift 5.9](https://img.shields.io/badge/Swift-5.9-orange)
 ![License MIT](https://img.shields.io/badge/license-MIT-green)
 
+![布局示例](docs/windowtiler-layout-examples.svg)
+
 ## 功能
 
 - **菜单栏常驻**，不占 Dock 位置
@@ -23,7 +25,7 @@
 ### 方式二：自行编译
 
 ```bash
-git clone https://github.com/yourname/WindowTiler.git
+git clone https://github.com/zhaohongle/mac-window-tiler.git
 cd WindowTiler
 bash build_app.sh
 cp -r WindowTiler.app /Applications/
