@@ -8,6 +8,37 @@
 
 ![布局示例](docs/windowtiler-layout-examples.svg)
 
+## 快速上手
+
+![使用教程](docs/tutorial.png)
+
+## 安装
+
+### 方式一：直接下载（推荐）
+
+从 [Releases](../../releases) 页面下载最新 `mac-window-tiler-v1.0.zip`，解压后**右键 → 打开**（首次需要，绕过 macOS 未签名提示）。
+
+### 方式二：自行编译
+
+```bash
+git clone https://github.com/zhaohongle/mac-window-tiler.git
+cd mac-window-tiler
+bash build_app.sh
+cp -r WindowTiler.app /Applications/
+```
+
+需要 Xcode Command Line Tools：`xcode-select --install`
+
+## 授权辅助功能
+
+首次运行后，需要在系统设置中授权，之后永久生效。
+
+![辅助功能授权示意](docs/accessibility.png)
+
+## 使用
+
+![如何使用](docs/how-to-use.png)
+
 ## 功能
 
 - **菜单栏常驻**，不占 Dock 位置
@@ -15,37 +46,6 @@
 - 支持 6 种布局：
   - 2 列 / 3 列 / 4 列
   - 2×2 / 3×2 / 4×2 宫格
-
-## 安装
-
-### 方式一：直接下载（推荐）
-
-从 [Releases](../../releases) 页面下载最新 `WindowTiler.app.zip`，解压后拖到 `/Applications` 即可。
-
-### 方式二：自行编译
-
-```bash
-git clone https://github.com/zhaohongle/mac-window-tiler.git
-cd WindowTiler
-bash build_app.sh
-cp -r WindowTiler.app /Applications/
-```
-
-需要 Xcode Command Line Tools：`xcode-select --install`
-
-## 使用方法
-
-1. 打开 `WindowTiler.app`
-2. **首次运行**：系统会提示授权辅助功能权限
-   - 前往：**系统设置 → 隐私与安全性 → 辅助功能**
-   - 找到 WindowTiler，点击开关启用
-3. 菜单栏出现 `⊞` 图标，点击选择布局即可
-
-## 授权辅助功能
-
-> macOS 要求所有控制其他窗口的 App 必须获得辅助功能授权，这是系统级安全限制。
-
-![辅助功能授权示意](docs/accessibility.png)
 
 ## 技术实现
 
@@ -65,7 +65,7 @@ cp -r WindowTiler.app /Applications/
 
 ## 贡献
 
-PR 和 Issue 欢迎！详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+PR 和 Issue 欢迎！
 
 ## 许可证
 
